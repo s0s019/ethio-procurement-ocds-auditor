@@ -1,0 +1,350 @@
+{
+  "findings": [
+    {
+      "explanation": "Cost variance indicator triggered (final contract value exceeds awarded amount by 36.0%, threshold 25.0%). Requires human review of approved variation orders, market price changes, or engineer estimates.",
+      "indicator_code": "RF-COST-001",
+      "indicator_name": "Cost Overrun / Upward Variance",
+      "ocid": "ocds-ethpub-eth-fdre-2025-003",
+      "procurement_id": "ETH-FDRE-2025-003",
+      "procuring_entity": "Ministry of Innovation and Technology",
+      "severity": "medium",
+      "supplier_name": "Nile Tech Systems PLC",
+      "supporting_values": {
+        "amendment_over_award_ratio": 0.3598,
+        "award_over_estimate_ratio": -0.0042,
+        "awarded_amount_etb": 11950000.0,
+        "estimated_amount_etb": 12000000.0,
+        "final_contract_amount_etb": 16250000.0,
+        "final_over_estimate_ratio": 0.3542,
+        "threshold_ratio": 0.25
+      }
+    },
+    {
+      "explanation": "Open competitive tender (Open National Competitive Bidding) received only 1 bid. Requires human review of tender advertisement reach, qualification criteria, and technical specification neutrality.",
+      "indicator_code": "RF-COMP-001",
+      "indicator_name": "Single-Bidder Competitive Tender",
+      "ocid": "ocds-ethpub-eth-fdre-2025-003",
+      "procurement_id": "ETH-FDRE-2025-003",
+      "procuring_entity": "Ministry of Innovation and Technology",
+      "severity": "medium",
+      "supplier_name": "Nile Tech Systems PLC",
+      "supporting_values": {
+        "bids_received": 1,
+        "ocds_procurement_method": "open",
+        "procurement_method": "Open National Competitive Bidding"
+      }
+    },
+    {
+      "explanation": "Undocumented schedule slippage of 56 days (actual completion exceeded planned date, with no documented time extension). Requires human review of site logs, variation approvals, and liquidated damages applicability.",
+      "indicator_code": "RF-TIME-001",
+      "indicator_name": "Undocumented Schedule Slippage",
+      "ocid": "ocds-ethpub-eth-fdre-2025-003",
+      "procurement_id": "ETH-FDRE-2025-003",
+      "procuring_entity": "Ministry of Innovation and Technology",
+      "severity": "medium",
+      "supplier_name": "Nile Tech Systems PLC",
+      "supporting_values": {
+        "actual_completion_date": "2025-06-25",
+        "as_of_date": "2026-11-19",
+        "delay_days": 56,
+        "extension_documented": false,
+        "planned_completion_date": "2025-04-30",
+        "reported_status": "completed"
+      }
+    },
+    {
+      "explanation": "Supplier 'Zemen General Contractors PLC' holds 3 awards (18.8% of tenders, 27.2% of total ETB contract value; threshold 3). Requires human review of lot splitting, market capacity, and independent bid evaluation.",
+      "indicator_code": "RF-CONC-001",
+      "indicator_name": "Repeat Supplier Concentration",
+      "ocid": "ocds-ethpub-eth-fdre-2025-006",
+      "procurement_id": "ETH-FDRE-2025-006",
+      "procuring_entity": "Addis Ababa City Administration Health Bureau",
+      "severity": "medium",
+      "supplier_name": "Zemen General Contractors PLC",
+      "supporting_values": {
+        "award_share_ratio": 0.1875,
+        "dataset_total_etb": 488050000.0,
+        "supplier_award_count": 3,
+        "supplier_total_etb": 132700000.0,
+        "threshold_count": 3,
+        "total_tenders_in_dataset": 16,
+        "value_share_ratio": 0.2719
+      }
+    },
+    {
+      "explanation": "Contract is marked 'completed' while final inspection/handover sign-off is 'missing'. Requires human verification of physical delivery certificates and inspection committee minutes before final closure.",
+      "indicator_code": "RF-HANDOVER-001",
+      "indicator_name": "Completed Without Final Inspection Sign-Off",
+      "ocid": "ocds-ethpub-eth-fdre-2025-006",
+      "procurement_id": "ETH-FDRE-2025-006",
+      "procuring_entity": "Addis Ababa City Administration Health Bureau",
+      "severity": "high",
+      "supplier_name": "Zemen General Contractors PLC",
+      "supporting_values": {
+        "final_contract_amount_etb": 13800000.0,
+        "inspection_signoff": "missing",
+        "reported_status": "completed"
+      }
+    },
+    {
+      "explanation": "Cost variance indicator triggered (final contract value exceeds awarded amount by 33.6%, threshold 25.0%). Requires human review of approved variation orders, market price changes, or engineer estimates.",
+      "indicator_code": "RF-COST-001",
+      "indicator_name": "Cost Overrun / Upward Variance",
+      "ocid": "ocds-ethpub-eth-fdre-2025-007",
+      "procurement_id": "ETH-FDRE-2025-007",
+      "procuring_entity": "Ministry of Education",
+      "severity": "medium",
+      "supplier_name": "Zemen General Contractors PLC",
+      "supporting_values": {
+        "amendment_over_award_ratio": 0.3361,
+        "award_over_estimate_ratio": -0.0161,
+        "awarded_amount_etb": 61000000.0,
+        "estimated_amount_etb": 62000000.0,
+        "final_contract_amount_etb": 81500000.0,
+        "final_over_estimate_ratio": 0.3145,
+        "threshold_ratio": 0.25
+      }
+    },
+    {
+      "explanation": "Supplier 'Zemen General Contractors PLC' holds 3 awards (18.8% of tenders, 27.2% of total ETB contract value; threshold 3). Requires human review of lot splitting, market capacity, and independent bid evaluation.",
+      "indicator_code": "RF-CONC-001",
+      "indicator_name": "Repeat Supplier Concentration",
+      "ocid": "ocds-ethpub-eth-fdre-2025-007",
+      "procurement_id": "ETH-FDRE-2025-007",
+      "procuring_entity": "Ministry of Education",
+      "severity": "medium",
+      "supplier_name": "Zemen General Contractors PLC",
+      "supporting_values": {
+        "award_share_ratio": 0.1875,
+        "dataset_total_etb": 488050000.0,
+        "supplier_award_count": 3,
+        "supplier_total_etb": 132700000.0,
+        "threshold_count": 3,
+        "total_tenders_in_dataset": 16,
+        "value_share_ratio": 0.2719
+      }
+    },
+    {
+      "explanation": "Undocumented schedule slippage of 68 days (actual completion exceeded planned date, with no documented time extension). Requires human review of site logs, variation approvals, and liquidated damages applicability.",
+      "indicator_code": "RF-TIME-001",
+      "indicator_name": "Undocumented Schedule Slippage",
+      "ocid": "ocds-ethpub-eth-fdre-2025-008",
+      "procurement_id": "ETH-FDRE-2025-008",
+      "procuring_entity": "Oromia Water and Energy Bureau",
+      "severity": "medium",
+      "supplier_name": "Rift Valley Water Works PLC",
+      "supporting_values": {
+        "actual_completion_date": "2025-10-18",
+        "as_of_date": "2026-11-19",
+        "delay_days": 68,
+        "extension_documented": false,
+        "planned_completion_date": "2025-08-11",
+        "reported_status": "completed"
+      }
+    },
+    {
+      "explanation": "Open competitive tender (Open National Competitive Bidding) received only 1 bid. Requires human review of tender advertisement reach, qualification criteria, and technical specification neutrality.",
+      "indicator_code": "RF-COMP-001",
+      "indicator_name": "Single-Bidder Competitive Tender",
+      "ocid": "ocds-ethpub-eth-fdre-2025-011",
+      "procurement_id": "ETH-FDRE-2025-011",
+      "procuring_entity": "Ethiopian Roads Administration",
+      "severity": "medium",
+      "supplier_name": "Zemen General Contractors PLC",
+      "supporting_values": {
+        "bids_received": 1,
+        "ocds_procurement_method": "open",
+        "procurement_method": "Open National Competitive Bidding"
+      }
+    },
+    {
+      "explanation": "Supplier 'Zemen General Contractors PLC' holds 3 awards (18.8% of tenders, 27.2% of total ETB contract value; threshold 3). Requires human review of lot splitting, market capacity, and independent bid evaluation.",
+      "indicator_code": "RF-CONC-001",
+      "indicator_name": "Repeat Supplier Concentration",
+      "ocid": "ocds-ethpub-eth-fdre-2025-011",
+      "procurement_id": "ETH-FDRE-2025-011",
+      "procuring_entity": "Ethiopian Roads Administration",
+      "severity": "medium",
+      "supplier_name": "Zemen General Contractors PLC",
+      "supporting_values": {
+        "award_share_ratio": 0.1875,
+        "dataset_total_etb": 488050000.0,
+        "supplier_award_count": 3,
+        "supplier_total_etb": 132700000.0,
+        "threshold_count": 3,
+        "total_tenders_in_dataset": 16,
+        "value_share_ratio": 0.2719
+      }
+    },
+    {
+      "explanation": "Cost variance indicator triggered (awarded amount exceeds initial estimate by 32.5%, threshold 25.0%). Requires human review of approved variation orders, market price changes, or engineer estimates.",
+      "indicator_code": "RF-COST-001",
+      "indicator_name": "Cost Overrun / Upward Variance",
+      "ocid": "ocds-ethpub-eth-fdre-2025-013",
+      "procurement_id": "ETH-FDRE-2025-013",
+      "procuring_entity": "Ministry of Innovation and Technology",
+      "severity": "medium",
+      "supplier_name": "Horn Connect Telecom Services",
+      "supporting_values": {
+        "amendment_over_award_ratio": 0.0,
+        "award_over_estimate_ratio": 0.325,
+        "awarded_amount_etb": 21200000.0,
+        "estimated_amount_etb": 16000000.0,
+        "final_contract_amount_etb": 21200000.0,
+        "final_over_estimate_ratio": 0.325,
+        "threshold_ratio": 0.25
+      }
+    },
+    {
+      "explanation": "Contract is marked 'completed' while final inspection/handover sign-off is 'pending'. Requires human verification of physical delivery certificates and inspection committee minutes before final closure.",
+      "indicator_code": "RF-HANDOVER-001",
+      "indicator_name": "Completed Without Final Inspection Sign-Off",
+      "ocid": "ocds-ethpub-eth-fdre-2025-014",
+      "procurement_id": "ETH-FDRE-2025-014",
+      "procuring_entity": "Ministry of Education",
+      "severity": "medium",
+      "supplier_name": "Selam Industrial Machinery PLC",
+      "supporting_values": {
+        "final_contract_amount_etb": 4650000.0,
+        "inspection_signoff": "pending",
+        "reported_status": "completed"
+      }
+    },
+    {
+      "explanation": "Undocumented schedule slippage of 259 days (contract remains 'delayed' past planned completion date as of 2026-11-19, with no documented time extension). Requires human review of site logs, variation approvals, and liquidated damages applicability.",
+      "indicator_code": "RF-TIME-001",
+      "indicator_name": "Undocumented Schedule Slippage",
+      "ocid": "ocds-ethpub-eth-fdre-2025-015",
+      "procurement_id": "ETH-FDRE-2025-015",
+      "procuring_entity": "Oromia Water and Energy Bureau",
+      "severity": "high",
+      "supplier_name": "Blue Nile Hydro Engineering",
+      "supporting_values": {
+        "actual_completion_date": null,
+        "as_of_date": "2026-11-19",
+        "delay_days": 259,
+        "extension_documented": false,
+        "planned_completion_date": "2026-03-05",
+        "reported_status": "delayed"
+      }
+    }
+  ],
+  "provenance": {
+    "inputFile": "data\\sample_tenders.csv",
+    "inputSha256": "a1ff920b9f5234372194c747a0262cc2b8c518488096d78e35971658bb0a8fcc",
+    "ocdsPackageSha256": "d97af464880cfe2efcb23ebfe26a06bfa04d352afa84d571157e0630e6d374d7"
+  },
+  "reportMetadata": {
+    "disclaimer": "Red-flag indicators highlight statistical or procedural anomalies for human audit verification only and do not constitute proof of corruption, fraud, or legal liability.",
+    "generatedAt": "2026-11-19T16:49:42Z",
+    "legalContext": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+    "standard": "OCDS 1.1",
+    "thresholds": {
+      "asOfDate": null,
+      "overrunThreshold": 0.25,
+      "repeatSupplierThreshold": 3
+    },
+    "tool": "ethio-procurement-ocds-auditor",
+    "version": "0.1.0"
+  },
+  "summary": {
+    "cleanProcurements": 8,
+    "findingsByIndicator": {
+      "RF-COMP-001": 2,
+      "RF-CONC-001": 3,
+      "RF-COST-001": 3,
+      "RF-HANDOVER-001": 2,
+      "RF-TIME-001": 3
+    },
+    "findingsBySeverity": {
+      "high": 2,
+      "medium": 11
+    },
+    "flaggedProcurements": 8,
+    "supplierBreakdown": [
+      {
+        "awardCount": 3,
+        "supplierName": "Zemen General Contractors PLC",
+        "totalFinalContractETB": 132700000.0,
+        "valueShareRatio": 0.2719
+      },
+      {
+        "awardCount": 2,
+        "supplierName": "EthioMed Logistics & Supplies PLC",
+        "totalFinalContractETB": 71300000.0,
+        "valueShareRatio": 0.1461
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Blue Nile Hydro Engineering",
+        "totalFinalContractETB": 74500000.0,
+        "valueShareRatio": 0.1526
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Abay Civil Works PLC",
+        "totalFinalContractETB": 44200000.0,
+        "valueShareRatio": 0.0906
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Horizons Pharma Trading PLC",
+        "totalFinalContractETB": 31500000.0,
+        "valueShareRatio": 0.0645
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Rift Valley Water Works PLC",
+        "totalFinalContractETB": 26900000.0,
+        "valueShareRatio": 0.0551
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Addis Power Engineering PLC",
+        "totalFinalContractETB": 21800000.0,
+        "valueShareRatio": 0.0447
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Horn Connect Telecom Services",
+        "totalFinalContractETB": 21200000.0,
+        "valueShareRatio": 0.0434
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Awash Medical Distributors",
+        "totalFinalContractETB": 19200000.0,
+        "valueShareRatio": 0.0393
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Nile Tech Systems PLC",
+        "totalFinalContractETB": 16250000.0,
+        "valueShareRatio": 0.0333
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Green Highland Agro-Tech PLC",
+        "totalFinalContractETB": 14700000.0,
+        "valueShareRatio": 0.0301
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Sheba Educational Materials S.C.",
+        "totalFinalContractETB": 9150000.0,
+        "valueShareRatio": 0.0187
+      },
+      {
+        "awardCount": 1,
+        "supplierName": "Selam Industrial Machinery PLC",
+        "totalFinalContractETB": 4650000.0,
+        "valueShareRatio": 0.0095
+      }
+    ],
+    "totalAwardedAmountETB": 463250000.0,
+    "totalEstimatedAmountETB": 464700000.0,
+    "totalFinalContractAmountETB": 488050000.0,
+    "totalFindings": 13,
+    "totalProcurements": 16
+  }
+}

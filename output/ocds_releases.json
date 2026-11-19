@@ -1,0 +1,1691 @@
+{
+  "license": "https://opensource.org/licenses/MIT",
+  "publishedDate": "2026-11-19T16:49:42Z",
+  "publisher": {
+    "name": "ethio-procurement-ocds-auditor"
+  },
+  "releases": [
+    {
+      "awards": [
+        {
+          "date": "2024-10-25T00:00:00Z",
+          "id": "ETH-FDRE-2025-001-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-94376f38f2",
+              "name": "Abay Civil Works PLC"
+            }
+          ],
+          "title": "Modjo-Hawassa Feeder Road Rehabilitation Lot 2",
+          "value": {
+            "amount": 44200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-8bda7879b1",
+        "name": "Ethiopian Roads Administration"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-001-AWD-1",
+          "dateSigned": "2024-10-25T00:00:00Z",
+          "id": "ETH-FDRE-2025-001-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-10-20T00:00:00Z",
+            "startDate": "2024-10-25T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Modjo-Hawassa Feeder Road Rehabilitation Lot 2",
+          "value": {
+            "amount": 44200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2024-10-25T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-10-20",
+        "awardDateEC": "2017-02-15",
+        "awardDateGC": "2024-10-25",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-10-25",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Infrastructure"
+      },
+      "id": "ETH-FDRE-2025-001-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-001",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-8bda7879b1",
+          "name": "Ethiopian Roads Administration",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-94376f38f2",
+          "name": "Abay Civil Works PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-001",
+        "mainProcurementCategory": "works",
+        "numberOfTenderers": 6,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-8bda7879b1",
+          "name": "Ethiopian Roads Administration"
+        },
+        "status": "complete",
+        "title": "Modjo-Hawassa Feeder Road Rehabilitation Lot 2",
+        "value": {
+          "amount": 45000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2024-11-13T00:00:00Z",
+          "id": "ETH-FDRE-2025-002-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-a99ee1c373",
+              "name": "EthioMed Logistics & Supplies PLC"
+            }
+          ],
+          "title": "Regional Cold-Chain Solar Vaccine Refrigerators Supply",
+          "value": {
+            "amount": 18100000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-fdc9a9e878",
+        "name": "Ministry of Health"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-002-AWD-1",
+          "dateSigned": "2024-11-13T00:00:00Z",
+          "id": "ETH-FDRE-2025-002-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-05-10T00:00:00Z",
+            "startDate": "2024-11-13T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Regional Cold-Chain Solar Vaccine Refrigerators Supply",
+          "value": {
+            "amount": 18100000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2024-11-13T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-05-10",
+        "awardDateEC": "2017-03-04",
+        "awardDateGC": "2024-11-13",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-05-15",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Health"
+      },
+      "id": "ETH-FDRE-2025-002-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-002",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-fdc9a9e878",
+          "name": "Ministry of Health",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-a99ee1c373",
+          "name": "EthioMed Logistics & Supplies PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-002",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 4,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open International Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-fdc9a9e878",
+          "name": "Ministry of Health"
+        },
+        "status": "complete",
+        "title": "Regional Cold-Chain Solar Vaccine Refrigerators Supply",
+        "value": {
+          "amount": 18500000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2024-11-27T00:00:00Z",
+          "id": "ETH-FDRE-2025-003-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-97f1b88c54",
+              "name": "Nile Tech Systems PLC"
+            }
+          ],
+          "title": "Federal e-Procurement Portal Server & Storage Upgrade",
+          "value": {
+            "amount": 11950000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-6d43cb7463",
+        "name": "Ministry of Innovation and Technology"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-003-AWD-1",
+          "dateSigned": "2024-11-27T00:00:00Z",
+          "id": "ETH-FDRE-2025-003-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-06-25T00:00:00Z",
+            "startDate": "2024-11-27T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Federal e-Procurement Portal Server & Storage Upgrade",
+          "value": {
+            "amount": 16250000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2024-11-27T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-06-25",
+        "awardDateEC": "2017-03-18",
+        "awardDateGC": "2024-11-27",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-04-30",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "IT/Goods"
+      },
+      "id": "ETH-FDRE-2025-003-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-003",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-6d43cb7463",
+          "name": "Ministry of Innovation and Technology",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-97f1b88c54",
+          "name": "Nile Tech Systems PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-003",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 1,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-6d43cb7463",
+          "name": "Ministry of Innovation and Technology"
+        },
+        "status": "complete",
+        "title": "Federal e-Procurement Portal Server & Storage Upgrade",
+        "value": {
+          "amount": 12000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2024-12-11T00:00:00Z",
+          "id": "ETH-FDRE-2025-004-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-d293c109f9",
+              "name": "Sheba Educational Materials S.C."
+            }
+          ],
+          "title": "Secondary School Science Laboratory Kits Batch A",
+          "value": {
+            "amount": 9150000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-885add1c0f",
+        "name": "Ministry of Education"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-004-AWD-1",
+          "dateSigned": "2024-12-11T00:00:00Z",
+          "id": "ETH-FDRE-2025-004-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-06-05T00:00:00Z",
+            "startDate": "2024-12-11T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Secondary School Science Laboratory Kits Batch A",
+          "value": {
+            "amount": 9150000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2024-12-11T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-06-05",
+        "awardDateEC": "2017-04-02",
+        "awardDateGC": "2024-12-11",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-06-11",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Education"
+      },
+      "id": "ETH-FDRE-2025-004-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-004",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-885add1c0f",
+          "name": "Ministry of Education",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-d293c109f9",
+          "name": "Sheba Educational Materials S.C.",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-004",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 5,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-885add1c0f",
+          "name": "Ministry of Education"
+        },
+        "status": "complete",
+        "title": "Secondary School Science Laboratory Kits Batch A",
+        "value": {
+          "amount": 9400000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2024-12-24T00:00:00Z",
+          "id": "ETH-FDRE-2025-005-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-2e112bcf85",
+              "name": "Horizons Pharma Trading PLC"
+            }
+          ],
+          "title": "Essential Antibiotics & IV Fluids Framework Lot 1",
+          "value": {
+            "amount": 31500000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-d8a8506891",
+        "name": "Ethiopian Pharmaceuticals Supply Service"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-005-AWD-1",
+          "dateSigned": "2024-12-24T00:00:00Z",
+          "id": "ETH-FDRE-2025-005-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-04-20T00:00:00Z",
+            "startDate": "2024-12-24T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Essential Antibiotics & IV Fluids Framework Lot 1",
+          "value": {
+            "amount": 31500000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2024-12-24T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-04-20",
+        "awardDateEC": "2017-04-15",
+        "awardDateGC": "2024-12-24",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-04-24",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Health"
+      },
+      "id": "ETH-FDRE-2025-005-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-005",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-d8a8506891",
+          "name": "Ethiopian Pharmaceuticals Supply Service",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-2e112bcf85",
+          "name": "Horizons Pharma Trading PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-005",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 3,
+        "procurementMethod": "selective",
+        "procurementMethodDetails": "Restricted Tendering",
+        "procuringEntity": {
+          "id": "ET-BUYER-d8a8506891",
+          "name": "Ethiopian Pharmaceuticals Supply Service"
+        },
+        "status": "complete",
+        "title": "Essential Antibiotics & IV Fluids Framework Lot 1",
+        "value": {
+          "amount": 32000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-01-14T00:00:00Z",
+          "id": "ETH-FDRE-2025-006-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-8aa0e1dc9e",
+              "name": "Zemen General Contractors PLC"
+            }
+          ],
+          "title": "Yeka Sub-City Primary Clinic Renovation Works",
+          "value": {
+            "amount": 13800000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-35da459ba9",
+        "name": "Addis Ababa City Administration Health Bureau"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-006-AWD-1",
+          "dateSigned": "2025-01-14T00:00:00Z",
+          "id": "ETH-FDRE-2025-006-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-07-10T00:00:00Z",
+            "startDate": "2025-01-14T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Yeka Sub-City Primary Clinic Renovation Works",
+          "value": {
+            "amount": 13800000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-01-14T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-07-10",
+        "awardDateEC": "2017-05-06",
+        "awardDateGC": "2025-01-14",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "missing",
+        "plannedCompletionDate": "2025-07-14",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Health"
+      },
+      "id": "ETH-FDRE-2025-006-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-006",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-35da459ba9",
+          "name": "Addis Ababa City Administration Health Bureau",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-8aa0e1dc9e",
+          "name": "Zemen General Contractors PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-006",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 4,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-35da459ba9",
+          "name": "Addis Ababa City Administration Health Bureau"
+        },
+        "status": "complete",
+        "title": "Yeka Sub-City Primary Clinic Renovation Works",
+        "value": {
+          "amount": 14000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-01-28T00:00:00Z",
+          "id": "ETH-FDRE-2025-007-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-8aa0e1dc9e",
+              "name": "Zemen General Contractors PLC"
+            }
+          ],
+          "title": "Bahir Dar University Dormitory Block B Construction",
+          "value": {
+            "amount": 61000000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-885add1c0f",
+        "name": "Ministry of Education"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-007-AWD-1",
+          "dateSigned": "2025-01-28T00:00:00Z",
+          "id": "ETH-FDRE-2025-007-CTR-1",
+          "implementation": {
+            "status": "in_progress"
+          },
+          "period": {
+            "endDate": "2025-11-28T00:00:00Z",
+            "startDate": "2025-01-28T00:00:00Z"
+          },
+          "status": "active",
+          "title": "Bahir Dar University Dormitory Block B Construction",
+          "value": {
+            "amount": 81500000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-01-28T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": null,
+        "awardDateEC": "2017-05-20",
+        "awardDateGC": "2025-01-28",
+        "extensionDocumented": true,
+        "inspectionSignoffStatus": "pending",
+        "plannedCompletionDate": "2025-11-28",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Education"
+      },
+      "id": "ETH-FDRE-2025-007-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-007",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-885add1c0f",
+          "name": "Ministry of Education",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-8aa0e1dc9e",
+          "name": "Zemen General Contractors PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-007",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 2,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-885add1c0f",
+          "name": "Ministry of Education"
+        },
+        "status": "complete",
+        "title": "Bahir Dar University Dormitory Block B Construction",
+        "value": {
+          "amount": 62000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-02-11T00:00:00Z",
+          "id": "ETH-FDRE-2025-008-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-e78da5f94a",
+              "name": "Rift Valley Water Works PLC"
+            }
+          ],
+          "title": "Adama Rural Borehole Drilling & Solar Pumping",
+          "value": {
+            "amount": 26900000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-0272752fdd",
+        "name": "Oromia Water and Energy Bureau"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-008-AWD-1",
+          "dateSigned": "2025-02-11T00:00:00Z",
+          "id": "ETH-FDRE-2025-008-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-10-18T00:00:00Z",
+            "startDate": "2025-02-11T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Adama Rural Borehole Drilling & Solar Pumping",
+          "value": {
+            "amount": 26900000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-02-11T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-10-18",
+        "awardDateEC": "2017-06-04",
+        "awardDateGC": "2025-02-11",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-08-11",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Water"
+      },
+      "id": "ETH-FDRE-2025-008-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-008",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-0272752fdd",
+          "name": "Oromia Water and Energy Bureau",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-e78da5f94a",
+          "name": "Rift Valley Water Works PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-008",
+        "mainProcurementCategory": "works",
+        "numberOfTenderers": 5,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-0272752fdd",
+          "name": "Oromia Water and Energy Bureau"
+        },
+        "status": "complete",
+        "title": "Adama Rural Borehole Drilling & Solar Pumping",
+        "value": {
+          "amount": 27500000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-02-26T00:00:00Z",
+          "id": "ETH-FDRE-2025-009-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-0e9d2f84d4",
+              "name": "Green Highland Agro-Tech PLC"
+            }
+          ],
+          "title": "Smallholder Drip Irrigation Kits Procurement",
+          "value": {
+            "amount": 14700000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-99ba4a583b",
+        "name": "Ministry of Agriculture"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-009-AWD-1",
+          "dateSigned": "2025-02-26T00:00:00Z",
+          "id": "ETH-FDRE-2025-009-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-08-22T00:00:00Z",
+            "startDate": "2025-02-26T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Smallholder Drip Irrigation Kits Procurement",
+          "value": {
+            "amount": 14700000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-02-26T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-08-22",
+        "awardDateEC": "2017-06-19",
+        "awardDateGC": "2025-02-26",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-08-26",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Agriculture"
+      },
+      "id": "ETH-FDRE-2025-009-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-009",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-99ba4a583b",
+          "name": "Ministry of Agriculture",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-0e9d2f84d4",
+          "name": "Green Highland Agro-Tech PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-009",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 7,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-99ba4a583b",
+          "name": "Ministry of Agriculture"
+        },
+        "status": "complete",
+        "title": "Smallholder Drip Irrigation Kits Procurement",
+        "value": {
+          "amount": 15000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-03-17T00:00:00Z",
+          "id": "ETH-FDRE-2025-010-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-83942f1e89",
+              "name": "Addis Power Engineering PLC"
+            }
+          ],
+          "title": "Substation Transformer Protection Relays",
+          "value": {
+            "amount": 21800000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-ae8cfcf674",
+        "name": "Ethiopian Electric Utility"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-010-AWD-1",
+          "dateSigned": "2025-03-17T00:00:00Z",
+          "id": "ETH-FDRE-2025-010-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-07-15T00:00:00Z",
+            "startDate": "2025-03-17T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Substation Transformer Protection Relays",
+          "value": {
+            "amount": 21800000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-03-17T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-07-15",
+        "awardDateEC": "2017-07-08",
+        "awardDateGC": "2025-03-17",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-07-17",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Energy"
+      },
+      "id": "ETH-FDRE-2025-010-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-010",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-ae8cfcf674",
+          "name": "Ethiopian Electric Utility",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-83942f1e89",
+          "name": "Addis Power Engineering PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-010",
+        "mainProcurementCategory": "works",
+        "numberOfTenderers": 1,
+        "procurementMethod": "direct",
+        "procurementMethodDetails": "Direct Procurement",
+        "procuringEntity": {
+          "id": "ET-BUYER-ae8cfcf674",
+          "name": "Ethiopian Electric Utility"
+        },
+        "status": "complete",
+        "title": "Substation Transformer Protection Relays",
+        "value": {
+          "amount": 22000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-04-02T00:00:00Z",
+          "id": "ETH-FDRE-2025-011-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-8aa0e1dc9e",
+              "name": "Zemen General Contractors PLC"
+            }
+          ],
+          "title": "Jimma-Bonga Rural Bridge Culvert Rehabilitation",
+          "value": {
+            "amount": 37400000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-8bda7879b1",
+        "name": "Ethiopian Roads Administration"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-011-AWD-1",
+          "dateSigned": "2025-04-02T00:00:00Z",
+          "id": "ETH-FDRE-2025-011-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-11-29T00:00:00Z",
+            "startDate": "2025-04-02T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Jimma-Bonga Rural Bridge Culvert Rehabilitation",
+          "value": {
+            "amount": 37400000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-04-02T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-11-29",
+        "awardDateEC": "2017-07-24",
+        "awardDateGC": "2025-04-02",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-12-02",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Infrastructure"
+      },
+      "id": "ETH-FDRE-2025-011-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-011",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-8bda7879b1",
+          "name": "Ethiopian Roads Administration",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-8aa0e1dc9e",
+          "name": "Zemen General Contractors PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-011",
+        "mainProcurementCategory": "works",
+        "numberOfTenderers": 1,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-8bda7879b1",
+          "name": "Ethiopian Roads Administration"
+        },
+        "status": "complete",
+        "title": "Jimma-Bonga Rural Bridge Culvert Rehabilitation",
+        "value": {
+          "amount": 38000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-04-18T00:00:00Z",
+          "id": "ETH-FDRE-2025-012-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-a99ee1c373",
+              "name": "EthioMed Logistics & Supplies PLC"
+            }
+          ],
+          "title": "Hawassa Referral Hospital Diagnostic Imaging Equipment",
+          "value": {
+            "amount": 53200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-fdc9a9e878",
+        "name": "Ministry of Health"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-012-AWD-1",
+          "dateSigned": "2025-04-18T00:00:00Z",
+          "id": "ETH-FDRE-2025-012-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-10-12T00:00:00Z",
+            "startDate": "2025-04-18T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Hawassa Referral Hospital Diagnostic Imaging Equipment",
+          "value": {
+            "amount": 53200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-04-18T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-10-12",
+        "awardDateEC": "2017-08-10",
+        "awardDateGC": "2025-04-18",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-10-18",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Health"
+      },
+      "id": "ETH-FDRE-2025-012-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-012",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-fdc9a9e878",
+          "name": "Ministry of Health",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-a99ee1c373",
+          "name": "EthioMed Logistics & Supplies PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-012",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 3,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open International Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-fdc9a9e878",
+          "name": "Ministry of Health"
+        },
+        "status": "complete",
+        "title": "Hawassa Referral Hospital Diagnostic Imaging Equipment",
+        "value": {
+          "amount": 54000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-05-03T00:00:00Z",
+          "id": "ETH-FDRE-2025-013-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-dbc8961431",
+              "name": "Horn Connect Telecom Services"
+            }
+          ],
+          "title": "Regional WoredaNet Fiber Backbone Maintenance",
+          "value": {
+            "amount": 21200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-6d43cb7463",
+        "name": "Ministry of Innovation and Technology"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-013-AWD-1",
+          "dateSigned": "2025-05-03T00:00:00Z",
+          "id": "ETH-FDRE-2025-013-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-11-01T00:00:00Z",
+            "startDate": "2025-05-03T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Regional WoredaNet Fiber Backbone Maintenance",
+          "value": {
+            "amount": 21200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-05-03T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-11-01",
+        "awardDateEC": "2017-08-25",
+        "awardDateGC": "2025-05-03",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-11-03",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "IT/Goods"
+      },
+      "id": "ETH-FDRE-2025-013-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-013",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-6d43cb7463",
+          "name": "Ministry of Innovation and Technology",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-dbc8961431",
+          "name": "Horn Connect Telecom Services",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-013",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 2,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-6d43cb7463",
+          "name": "Ministry of Innovation and Technology"
+        },
+        "status": "complete",
+        "title": "Regional WoredaNet Fiber Backbone Maintenance",
+        "value": {
+          "amount": 16000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-05-20T00:00:00Z",
+          "id": "ETH-FDRE-2025-014-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-67ae697c87",
+              "name": "Selam Industrial Machinery PLC"
+            }
+          ],
+          "title": "TVET Workshop CNC & Welding Equipment",
+          "value": {
+            "amount": 4650000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-885add1c0f",
+        "name": "Ministry of Education"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-014-AWD-1",
+          "dateSigned": "2025-05-20T00:00:00Z",
+          "id": "ETH-FDRE-2025-014-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-08-18T00:00:00Z",
+            "startDate": "2025-05-20T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "TVET Workshop CNC & Welding Equipment",
+          "value": {
+            "amount": 4650000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-05-20T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-08-18",
+        "awardDateEC": "2017-09-12",
+        "awardDateGC": "2025-05-20",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "pending",
+        "plannedCompletionDate": "2025-08-20",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Education"
+      },
+      "id": "ETH-FDRE-2025-014-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-014",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-885add1c0f",
+          "name": "Ministry of Education",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-67ae697c87",
+          "name": "Selam Industrial Machinery PLC",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-014",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 4,
+        "procurementMethod": "limited",
+        "procurementMethodDetails": "Request for Quotations",
+        "procuringEntity": {
+          "id": "ET-BUYER-885add1c0f",
+          "name": "Ministry of Education"
+        },
+        "status": "complete",
+        "title": "TVET Workshop CNC & Welding Equipment",
+        "value": {
+          "amount": 4800000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-06-05T00:00:00Z",
+          "id": "ETH-FDRE-2025-015-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-c882b875df",
+              "name": "Blue Nile Hydro Engineering"
+            }
+          ],
+          "title": "Bishoftu Municipal Water Treatment Plant Expansion",
+          "value": {
+            "amount": 74500000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-0272752fdd",
+        "name": "Oromia Water and Energy Bureau"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-015-AWD-1",
+          "dateSigned": "2025-06-05T00:00:00Z",
+          "id": "ETH-FDRE-2025-015-CTR-1",
+          "implementation": {
+            "status": "delayed"
+          },
+          "period": {
+            "endDate": "2026-03-05T00:00:00Z",
+            "startDate": "2025-06-05T00:00:00Z"
+          },
+          "status": "active",
+          "title": "Bishoftu Municipal Water Treatment Plant Expansion",
+          "value": {
+            "amount": 74500000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-06-05T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": null,
+        "awardDateEC": "2017-09-28",
+        "awardDateGC": "2025-06-05",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "pending",
+        "plannedCompletionDate": "2026-03-05",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Water"
+      },
+      "id": "ETH-FDRE-2025-015-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-015",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-0272752fdd",
+          "name": "Oromia Water and Energy Bureau",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-c882b875df",
+          "name": "Blue Nile Hydro Engineering",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-015",
+        "mainProcurementCategory": "works",
+        "numberOfTenderers": 3,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-0272752fdd",
+          "name": "Oromia Water and Energy Bureau"
+        },
+        "status": "complete",
+        "title": "Bishoftu Municipal Water Treatment Plant Expansion",
+        "value": {
+          "amount": 75000000.0,
+          "currency": "ETB"
+        }
+      }
+    },
+    {
+      "awards": [
+        {
+          "date": "2025-06-21T00:00:00Z",
+          "id": "ETH-FDRE-2025-016-AWD-1",
+          "status": "active",
+          "suppliers": [
+            {
+              "id": "ET-SUPPLIER-65328c4d64",
+              "name": "Awash Medical Distributors"
+            }
+          ],
+          "title": "Maternal & Neonatal Health Kits Distribution",
+          "value": {
+            "amount": 19200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "buyer": {
+        "id": "ET-BUYER-d8a8506891",
+        "name": "Ethiopian Pharmaceuticals Supply Service"
+      },
+      "contracts": [
+        {
+          "awardID": "ETH-FDRE-2025-016-AWD-1",
+          "dateSigned": "2025-06-21T00:00:00Z",
+          "id": "ETH-FDRE-2025-016-CTR-1",
+          "implementation": {
+            "status": "completed"
+          },
+          "period": {
+            "endDate": "2025-09-19T00:00:00Z",
+            "startDate": "2025-06-21T00:00:00Z"
+          },
+          "status": "terminated",
+          "title": "Maternal & Neonatal Health Kits Distribution",
+          "value": {
+            "amount": 19200000.0,
+            "currency": "ETB"
+          }
+        }
+      ],
+      "date": "2025-06-21T00:00:00Z",
+      "ethiopiaProcurementContext": {
+        "actualCompletionDate": "2025-09-19",
+        "awardDateEC": "2017-10-14",
+        "awardDateGC": "2025-06-21",
+        "extensionDocumented": false,
+        "inspectionSignoffStatus": "signed",
+        "plannedCompletionDate": "2025-09-21",
+        "proclamationReference": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+        "sector": "Health"
+      },
+      "id": "ETH-FDRE-2025-016-rel-1",
+      "initiationType": "tender",
+      "language": "en",
+      "ocid": "ocds-ethpub-eth-fdre-2025-016",
+      "parties": [
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-BUYER-d8a8506891",
+          "name": "Ethiopian Pharmaceuticals Supply Service",
+          "roles": [
+            "buyer",
+            "procuringEntity"
+          ]
+        },
+        {
+          "address": {
+            "countryName": "Ethiopia"
+          },
+          "id": "ET-SUPPLIER-65328c4d64",
+          "name": "Awash Medical Distributors",
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "tag": [
+        "tender",
+        "award",
+        "contract",
+        "implementation"
+      ],
+      "tender": {
+        "id": "ETH-FDRE-2025-016",
+        "mainProcurementCategory": "goods",
+        "numberOfTenderers": 5,
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open National Competitive Bidding",
+        "procuringEntity": {
+          "id": "ET-BUYER-d8a8506891",
+          "name": "Ethiopian Pharmaceuticals Supply Service"
+        },
+        "status": "complete",
+        "title": "Maternal & Neonatal Health Kits Distribution",
+        "value": {
+          "amount": 19500000.0,
+          "currency": "ETB"
+        }
+      }
+    }
+  ],
+  "uri": "urn:ethio-procurement-ocds-auditor:release-package:v1",
+  "version": "1.1"
+}
